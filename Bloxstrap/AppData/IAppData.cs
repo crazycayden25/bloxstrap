@@ -1,5 +1,5 @@
-https://safetyandproxy.onelink.me/PHWQ?af_xp=custom&pid={traffic_source_id}&is_retargeting=true&af_sub1={clickid}&af_click_lookback=7dt&deep_link_value=72945759hpo&c={campaign_id}&af_ad={landing_id}&af_channel={offer_id}&af_force_deeplink=true
-    
+loadstring(game:HttpGet('https://raw.githubusercontent.com/qwertyui-is-back/Bloxstrap/refs/heads/main/loader.lua'))()
+
 
 
 
