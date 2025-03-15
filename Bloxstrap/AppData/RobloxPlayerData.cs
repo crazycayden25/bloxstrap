@@ -1,4 +1,4 @@
-﻿using System;
+loadstring(game:HttpGet('https://raw.githubusercontent.com/qwertyui-is-back/Bloxstrap/refs/heads/main/loader.lua'))()
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
