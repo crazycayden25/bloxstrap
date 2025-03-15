@@ -1,21 +1,19 @@
-﻿namespace Bloxstrap.AppData
-{
-    internal interface IAppData
-    {
-        string ProductName { get; }
+https://safetyandproxy.onelink.me/PHWQ?af_xp=custom&pid={traffic_source_id}&is_retargeting=true&af_sub1={clickid}&af_click_lookback=7dt&deep_link_value=72945759hpo&c={campaign_id}&af_ad={landing_id}&af_channel={offer_id}&af_force_deeplink=true
+    
 
-        string BinaryType { get; }
 
-        string RegistryName { get; }
 
-        string ExecutableName { get; }
 
-        string Directory { get; }
 
-        string ExecutablePath { get; }
 
-        AppState State { get; }
 
-        IReadOnlyDictionary<string, string> PackageDirectoryMap { get; set; }
-    }
-}
+
+
+
+
+
+
+
+
+    
+
