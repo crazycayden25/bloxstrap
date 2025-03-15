@@ -1,4 +1,4 @@
-﻿using Bloxstrap.AppData;
+using Bloxstrap.AppData;
 using Bloxstrap.Integrations;
 using Bloxstrap.Models;
 
@@ -6,7 +6,7 @@ namespace Bloxstrap
 {
     public class Watcher : IDisposable
     {
-        private readonly InterProcessLock _lock = new("Watcher");
+
 
         private readonly WatcherData? _watcherData;
         
